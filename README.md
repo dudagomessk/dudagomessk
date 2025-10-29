@@ -24,7 +24,9 @@
 - 🌍 De Joinville - SC, Brasil
 - ✉️ Contato: [eduardagomesnovo@gmail.com](mailto:nicfmello@gmail.com)
 
-### 🚀 Tecnologias & Ferramentas
+#
+
+### 🖥️ Tecnologias & Linguagens
 
 <div style="display: inline_block width: 45%"><br>
   
