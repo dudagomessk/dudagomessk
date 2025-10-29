@@ -22,7 +22,7 @@
 - 🎓 Atualmente, estudo no Instituto Federal Campus Araquari
 - 🧠 Buscando sempre aprender e evoluir!
 - 🌍 De Joinville - SC, Brasil
-- ✉️ Contato: [eduardagomesnovo@gmail.com](mailto:nicfmello@gmail.com)
+- ✉️ Contato: [eduardagomesnovo@gmail.com](mailto:eduardagomesnovo@gmail.com)
 
 #
 
@@ -44,7 +44,7 @@
 
 ### ✨ Redes socias & Contato
 
-<div style="display: inline_block width: 45%"><br>
+<div style="display: inline_block width: 48%"><br>
   
   <a href ="mailto:eduardagomesnovo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
