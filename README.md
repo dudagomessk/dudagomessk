@@ -47,10 +47,10 @@
 <div style="display: inline_block width: 48%"><br>
   
   <a href ="mailto:eduardagomesnovo@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FF1493?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF1493" target="_blank">
   </a>
   <a href="https://instagram.com/dudagomessk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1493" target="_blank">
   </a>
  
 </div>
@@ -62,6 +62,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dudagomessk/dudagomessk/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dudagomessk/dudagomessk/output/github-contribution-grid-snake.svg">
 </picture>
+
+#
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dudagomessk&bg_color=000000&color=FF69B4&line=FF69B4&point=FF69B4&area=true&hide_border=true)](https://github.com/dudagomessk/dudagomessk)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
