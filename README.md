@@ -6,20 +6,6 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=38&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Eduarda+Gomes;I'm+16+years+old;I+am+from+Joinville,+SC;+studing+in+IF+Campus-Araquari;Be+Welcome!)](https://git.io/typing-svg)
 
 
-
-
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <a href="https://github.com/dudagomessk">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=dudagomessk&show_icons=true&bg_color=000000&title_color=FF1493&text_color=fff&icon_color=FF1493&hide_border=true"/>
-  </a>
-  <a href="https://github.com/dudagomessk">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudagomessk&layout=donut&bg_color=000000&title_color=FF1493&text_color=fff&hide_border=true"/>
-  </a>
-</div>
-
-
-
-
 #
 
 <section id="about-me">
